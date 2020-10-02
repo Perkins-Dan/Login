@@ -1,0 +1,23 @@
+{
+  "name": "Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "local": "^0.3.3",
+    "mongoose": "^5.10.7",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
